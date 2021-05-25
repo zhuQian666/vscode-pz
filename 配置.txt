@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": false,
+    "editor.cursorStyle": "line-thin",
+    "editor.renderIndentGuides": false,
+    "editor.minimap.enabled": false,
+    "editor.minimap.maxColumn": 50,
+    "editor.minimap.renderCharacters": true,
+    "sublimeTextKeymap.promptV3Features": true,
+    "workbench.colorTheme": "Monokai",
+    "files.associations": {
+        "*.es": "javascript",
+        "*.es6": "javascript",
+        "*.vue": "html",
+        "*.hbs": "html"
+    },
+    "vsicons.projectDetection.autoReload": true,
+    "eslint.enable": false,
+    "workbench.sideBar.location": "left",
+    "window.zoomLevel": 2
+}
